@@ -14,7 +14,7 @@ This repository contains Swift playgrounds created while studying core OOP conce
 
 <p>
 Detailed learning notes and explanations can be found here:<br>
-<a href="https://secretive-fascinator-c6c.notion.site/OOP-in-Swift-3cbcc0b5301948a689fadd2e02d4630c?pvs=4">
+<a href="https://secretive-fascinator-c6c.notion.site/OOP-in-Swift-GitHub-3cbcc0b5301948a689fadd2e02d4630c">
 OOP in Swift Notes (Notion)
 </a>
 </p>
